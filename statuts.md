@@ -101,7 +101,7 @@ Le secrétaire est responsable de la gestion administrative de l'association. Il
 
 ### 8.4
 
-Le trésorier est responsable de la gestion financière de l'association. Il tient les comptes à jour et prépare le budget annuel. Il encaisse les recettes et effectue les paiements. Il conserve les pièces justificatives des dépenses et des recettes, et les met à disposition pour les vérifications éventuelles. Il gère les archives de tout document relatif à la trésorerie. Il gère les relations avec les établissements bancaires et assure le suivi des comptes bancaires de l'association.
+Le trésorier est responsable de la gestion financière de l'association. Il tient les comptes à jour et prépare le budget annuel. Il encaisse les recettes et effectue les paiements. Il conserve les pièces justificatives des dépenses et des recettes, et les met à disposition pour les vérifications éventuelles. Il gère les archives de tout document relatif à la trésorerie. Il gère les relations avec les établissements bancaires et assure le suivi des comptes bancaires de l'association. Il peut représenter l'association auprès des tiers pour des actes financiers, avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
 
 ## Article 9 - Délégué à la protection des données
 
