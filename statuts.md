@@ -42,10 +42,11 @@ Sont membres d’honneur, ceux qui ont rendu des services signalés ; ils sont d
 ### 4.3
 
 La qualité de membre se perd par :
-a) la démission
-b) le décès
-c) le non-paiement de la cotisation, la radiation étant prononcée par le Conseil d’administration après une relance sur support écrit papier ou électronique. La relance n'est pas nécessaire si le membre n'a pas eu de contact avec l'association depuis deux ans ou plus.
-d) la radiation prononcée par le conseil d'administration pour motif grave, l'intéressé ayant été invité par lettre recommandée avec accusé de réception à se présenter devant le conseil d'administration pour fournir des explications. Le non-respect manifeste de l'article 2 des présents statuts peut être un motif de radiation.
+1. la démission
+2. le décès
+3. le non-paiement de la cotisation depuis deux années consécutives ou moins, la radiation étant prononcée par le Conseil d’administration après une relance sur support écrit papier ou électronique.
+4. le non-paiement de la cotisation depuis plus de deux années consécutives, la radiation étant alors automatique sans qu'il y ait besoin d'effectuer une relance auprès du membre et d'établir une décision du conseil d'administration.
+5. la radiation prononcée par le conseil d'administration pour motif grave, l'intéressé ayant été invité par lettre recommandée avec accusé de réception à se présenter devant le conseil d'administration pour fournir des explications. Sans être exhaustif, le non-respect manifeste de l'article 2 des présents statuts peut être un motif de radiation.
 
 ## Article 5 - Ressources
 
@@ -124,6 +125,7 @@ Il peut représenter l'association auprès des tiers avec l'accord du président
 ## Article 9 - Délégué à la protection des données
 
 Un délégué à la protection des données peut être nommé par le Conseil d'administration. Le délégué à la protection des données s'assure du respect de la conformité légale et réglementaire de l'association en matière de protection des données personnelles. Le Conseil d'administration veille à ce qu'il n'ait pas de conflit d'intérêt dans l'exercice de ses fonctions et à ce qu'il ait accès aux documents et données qui lui sont nécessaires. Il est à cet effet informé de tout traitement de données à caractère personnel organisé par l'association et, s'il y a lieu, de toute sous-traitance de données à caractère personnel. Les modalités d'exercice de ses fonctions peuvent être précisées par le règlement intérieur.
+Le délégué à la protection des données peut être toute personne membre de l'association, ou une personne externe exerçant ses fonctions à titre professionnel en ayant conclu un contrat d'externalisation du délégué à la protection des données.
 
 ## Article 10 - Groupes de travail
 
