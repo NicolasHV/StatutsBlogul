@@ -121,21 +121,21 @@ Il est procédé, après épuisement de l’ordre du jour, au remplacement des m
 Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoie expressément des questions diverses. Les décisions sont prises à la majorité des membres présents ou représentés. Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
 L’assemblée générale ordinaire peut, sur décision du président de l’association avec accord de la majorité du Conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
 
-## Article 12 - Délégation de pouvoirs
-
-### 12.1
-
-Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du Conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
-
-### 12.2
-
-Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur.
-
-## Article 13 - Assemblée générale extraordinaire
+## Article 12 - Assemblée générale extraordinaire
 
 Si besoin est, le président peut convoquer une assemblée générale extraordinaire, dans les mêmes modalités que celles prévues pour une assemblée générale ordinaire. Cette convocation peut également être effectuée sur la demande de la moitié plus un des membres du conseil d’administration ou un tiers des membres définis par l’article 4.
 Les assemblées générales extraordinaires obéissent aux mêmes règles que les assemblées générales ordinaires sauf dispositions contraires prévues par les statuts.
 L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique. Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents.
+
+## Article 13 - Délégation de pouvoirs
+
+### 13.1
+
+Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du Conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
+
+### 13.2
+
+Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur.
 
 ## Article 14 - Règlement intérieur
 
