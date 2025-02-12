@@ -93,15 +93,33 @@ Les fonctions de secrétaire et de trésorier peuvent être assurées par la mê
 
 ### 8.2
 
-Le président est le représentant légal de l'association dans tous les actes de la vie civile et auprès des tiers. Il est le porte-parole de l'association et gère sa politique de communication. Il préside le conseil d'administration et les assemblées générales. Il veille à la bonne application des règles en vigueur avec le reste des membres du Bureau. Il gère la correspondance de l'association en lien avec le secrétaire et peut consulter toute archive tenue par lui. Il peut ester en justice après accord du conseil d'administration et agit en qualité de défendeur en cas d'action judiciaire envers l'association. Il peut gérer les relations avec les établissements bancaires, assurer le suivi des comptes bancaires de l'association et effectuer les paiements sous supervision du trésorier. Il autorise les prestations et actes réalisés au bénéfice de tiers au nom de l'association, selon les règles en vigueur.
+Le président est le représentant légal de l'association dans tous les actes de la vie civile et auprès des tiers.
+Il est le porte-parole de l'association et décide de sa politique de communication sous contrôle du conseil d'administration.
+Il préside le conseil d'administration et les assemblées générales.
+Il veille à la bonne application des règles en vigueur avec le reste des membres du Bureau.
+Il gère la correspondance de l'association conjointement avec le secrétaire, et peut consulter toute archive tenue par lui.
+Il peut consulter toute archive tenue par le trésorier en ce qui concerne la trésorerie.
+Il peut ester en justice après accord du conseil d'administration et a mandat pour agir en qualité de défendeur en cas d'action judiciaire envers l'association.
+Il peut gérer les relations avec les établissements bancaires, assurer le suivi des comptes bancaires de l'association et effectuer les paiements sous supervision et accord du trésorier.
+Il autorise les prestations et actes réalisés au bénéfice de tiers au nom de l'association, selon les règles en vigueur.
 
 ### 8.3
 
-Le secrétaire est responsable de la gestion administrative de l'association. Il rédige les procès-verbaux des réunions du conseil d'administration et des assemblées générales. Il gère les archives de l'association, y compris les statuts, le règlement intérieur et les documents officiels, à l'exception des documents relevant de la trésorerie. Il gère la correspondance de l'association en lien avec le président et l'archive lorsqu'il le juge nécessaire en suivant des modalités qui peuvent être prévues facultativement par le règlement intérieur. Il peut éditer et envoyer les convocations aux réunions et assemblées pour le compte des instances ayant autorité à convoquer, si elles en font la demande. Il peut représenter l'association auprès des tiers pour des actes administratifs, avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
+Le secrétaire est responsable de la gestion administrative de l'association.
+Il rédige les procès-verbaux des réunions du conseil d'administration et des assemblées générales.
+Il gère les archives de l'association, y compris les statuts, le règlement intérieur et les documents officiels, à l'exception des documents relevant de la trésorerie.
+Il gère la correspondance de l'association conjointement avec le président et l'archive lorsqu'il le juge nécessaire en suivant des modalités qui peuvent être prévues facultativement par le règlement intérieur.
+Il peut éditer et envoyer les convocations aux réunions et assemblées pour le compte des instances ayant autorité à convoquer, si elles en font la demande.
+Il peut représenter l'association auprès des tiers avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
 
 ### 8.4
 
-Le trésorier est responsable de la gestion financière de l'association. Il tient les comptes à jour et prépare le budget annuel. Il encaisse les recettes et effectue les paiements. Il conserve les pièces justificatives des dépenses et des recettes, et les met à disposition pour les vérifications éventuelles. Il gère les archives de tout document relatif à la trésorerie. Il gère les relations avec les établissements bancaires et assure le suivi des comptes bancaires de l'association. Il peut représenter l'association auprès des tiers pour des actes financiers, avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
+Le trésorier est responsable de la gestion financière de l'association.
+Il tient les comptes à jour et prépare le budget annuel.
+Il encaisse les recettes et effectue les paiements.
+Il conserve les pièces justificatives des dépenses et des recettes, et les met à disposition pour les vérifications éventuelles. Il gère les archives de tout document relatif à la trésorerie.
+Il gère les relations avec les établissements bancaires et assure le suivi des comptes bancaires de l'association.
+Il peut représenter l'association auprès des tiers avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
 
 ## Article 9 - Délégué à la protection des données
 
@@ -113,19 +131,48 @@ Des groupes de travail peuvent être créés par délibération du Conseil d’a
 
 ## Article 11 - Assemblée générale ordinaire
 
+### 11.1
+
 L’assemblée générale ordinaire comprend tous les membres de l’association à jour de leurs cotisations, à quelque titre qu’ils y soient affiliés. Elle se réunit chaque année au cours du premier semestre et autant de fois que nécessaire durant l'année sur décision du Conseil d'administration.
-Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du secrétaire ou du président. Les convocations peuvent être envoyées par voie électronique.
-L’ordre du jour est indiqué sur les convocations.
-Le président, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association. Le secrétaire rend compte de son activité. Le trésorier soumet le bilan financier à l’approbation de l’assemblée. Le président peut demander à toute personne ayant une fonction au sein de l'association de rendre compte de son activité. Ce point doit alors être précisé dans l'ordre du jour.
+
+### 11.2
+
+Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par le secrétaire ou le président. Les convocations peuvent être envoyées par voie électronique.
+L’ordre du jour est fixé par le conseil d'administration sur proposition du président ou du secrétaire. Il est indiqué sur les convocations envoyées.
+Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoit expressément des questions diverses.
+
+### 11.3
+
+Le président, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association. Il soumet son bilan à approbation de l'assemblée.
+Le secrétaire rend compte de son activité.
+Le trésorier soumet le bilan financier à l’approbation de l’assemblée.
+Le président peut demander à toute personne ayant une fonction au sein de l'association de rendre compte de son activité. Ce point doit alors être précisé dans l'ordre du jour, et nommer précisément les fonctions ou les personnes devant rendre compte de leur activité.
+Ces dispositions ne sont pas obligatoires si une assemblée générale ordinaire a déjà été tenue durant l'année en cours.
+
+### 11.4
+
 Il est procédé, après épuisement de l’ordre du jour, au remplacement des membres renouvelables du Conseil d'administration. Cette élection peut se faire à main levée ; elle a lieu au scrutin secret si au moins un membre en fait la demande.
-Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoie expressément des questions diverses. Les décisions sont prises à la majorité des membres présents ou représentés. Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
-L’assemblée générale ordinaire peut, sur décision du président de l’association avec accord de la majorité du Conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
+
+### 11.5
+
+Les décisions sont prises à la majorité des membres présents ou représentés.
+Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
+
+### 11.6
+
+L’assemblée générale ordinaire peut, sur décision du président avec accord de la majorité du Conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
 
 ## Article 12 - Assemblée générale extraordinaire
 
+### 12.1
+
 Si besoin est, le président peut convoquer une assemblée générale extraordinaire, dans les mêmes modalités que celles prévues pour une assemblée générale ordinaire. Cette convocation peut également être effectuée sur la demande de la moitié plus un des membres du conseil d’administration ou un tiers des membres définis par l’article 4.
+
+### 12.2
+
 Les assemblées générales extraordinaires obéissent aux mêmes règles que les assemblées générales ordinaires sauf dispositions contraires prévues par les statuts.
-L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique. Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents.
+L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique.
+Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents.
 
 ## Article 13 - Délégation de pouvoirs
 
@@ -148,7 +195,9 @@ Les statuts sont modifiables lors d’une assemblée générale extraordinaire.
 
 ## Article 16 - Dissolution
 
-La dissolution de l'association peut être pronconcée sur décision des deux tiers au moins des membres présents ou représentés lors d'une assemblée générale extraordinaire. Un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901. En aucun cas les membres de l’association ne pourront se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l’association. L’actif net subsistant sera attribué obligatoirement à une ou plusieurs autres associations qui seront nommément désignées par l’assemblée générale extraordinaire.
+La dissolution de l'association peut être pronconcée sur décision des deux tiers au moins des membres présents ou représentés lors d'une assemblée générale extraordinaire.
+Un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+En aucun cas les membres de l’association ne pourront se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l’association. L'actif net subsistant sera attribué obligatoirement à une ou plusieurs autres associations qui seront nommément désignées par l’assemblée générale extraordinaire.
 
 ## Article 17 - Formalités
 
