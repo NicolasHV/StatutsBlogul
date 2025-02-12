@@ -94,7 +94,9 @@ Si l’acte ou la prestation au nom de l’association est rétribué, il ne pou
 ### 7.1
 
 
-L’association est dirigée par un conseil de trois membres au minimum à vingt au maximum, élus pour trois ans par l’assemblée générale. Les membres renouvelables du conseil sont rééligibles.
+L’association est dirigée par un conseil de trois membres au minimum à vingt au maximum, élus pour trois ans par l’assemblée générale. Les membres renouvelables du conseil sont rééligibles
+
+L'assemblée générale renouvelle tous les ans un tiers du conseil d'administration.
 
 Les fonctions de membre du conseil d’administration sont bénévoles. Est éligible au conseil d’administration toute personne âgée de quatorze ans au moins au jour de l’élection et à jour de ses cotisations. La participation de mineurs au conseil d'administration et au bureau se font dans le respect des dispositions légales et réglementaires en vigueur.
 
