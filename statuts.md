@@ -47,9 +47,9 @@ L’association se compose de :
 
 ### 4.2
 
-Sont membres actifs ou adhérents ceux qui ont pris l’engagement de verser annuellement une somme dont le montant est fixé par le règlement intérieur.
+Sont membres actifs ou adhérents ceux qui ont pris l’engagement de verser une somme dont le montant et la périodicité sont fixés par le règlement intérieur.
 
-Sont membres adhérents au tarif social ceux qui remplissent les conditions d'éligibilité fixées par le règlement intérieur. Ils s'engagent à verser annuellement une somme dont le montant est fixé par le règlement intérieur. La somme peut être nulle et ne doit jamais être strictement supérieure à celle fixée pour les membres actifs.
+Sont membres adhérents au tarif social ceux qui remplissent les conditions d'éligibilité fixées par le règlement intérieur. Ils s'engagent à verser une somme dont le montant et la périodicité sont fixés par le règlement intérieur. La somme peut être nulle et ne doit jamais être strictement supérieure à celle fixée pour les membres actifs.
 
 Sont membres bienfaiteurs, les membres actifs qui apportent une aide particulière à l’association. Les modalités d'attribution de ce titre sont prévues par le règlement intérieur.
 
