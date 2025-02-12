@@ -124,7 +124,7 @@ Le conseil d’administration choisit parmi ses membres, pour une durée d'un an
 2. un secrétaire général et, s’il y a lieu, un vice-secrétaire général
 3. un trésorier et, s’il y a lieu, un vice-trésorier
 
-Les fonctions de secrétaire général et de trésorier peuvent être assurées par la même personne. Tous les membres du bureau devront obligatoirement être choisis parmi les membres du conseil d'administration et agir sous le contrôle de ce dernier. Les membres du bureau sortants sont rééligibles. Chaque vices-membre du bureau a les mêmes pouvoirs que le membre titulaire de la fonction qu'il représente, sous réserve de l'accord du titulaire ou de l'indisponibilité de celui-ci.
+Les fonctions de secrétaire général et de trésorier peuvent être assurées par la même personne. Tous les membres du bureau devront obligatoirement être choisis parmi les membres du conseil d'administration et agir sous le contrôle de ce dernier. Les membres du bureau sortants sont rééligibles. Chaque vice-membre du bureau a les mêmes pouvoirs que le membre titulaire de la fonction qu'il représente, sous réserve de l'accord du titulaire ou de l'indisponibilité de celui-ci.
 
 
 ### 8.2
