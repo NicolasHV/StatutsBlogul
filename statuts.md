@@ -111,17 +111,7 @@ Un délégué à la protection des données peut être nommé par le Conseil d'a
 
 Des groupes de travail peuvent être créés par délibération du Conseil d’administration. Les modalités de création, d’organisation et de suppression de ces groupes de travail sont définies par une résolution écrite adoptée par le Conseil d’administration pour chaque groupe de travail, la résolution devant être accessible facilement à tout membre de l'association.
 
-## Article 11 - Délégation de pouvoirs
-
-### 11.1
-
-Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du Conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
-
-### 11.2
-
-Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur.
-
-## Article 12 - Assemblée générale ordinaire
+## Article 11 - Assemblée générale ordinaire
 
 L’assemblée générale ordinaire comprend tous les membres de l’association à jour de leurs cotisations, à quelque titre qu’ils y soient affiliés. Elle se réunit chaque année au cours du premier semestre et autant de fois que nécessaire durant l'année sur décision du Conseil d'administration.
 Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du secrétaire ou du président. Les convocations peuvent être envoyées par voie électronique.
@@ -130,6 +120,16 @@ Le président, assisté des membres du bureau, préside l’assemblée et expose
 Il est procédé, après épuisement de l’ordre du jour, au remplacement des membres renouvelables du Conseil d'administration. Cette élection peut se faire à main levée ; elle a lieu au scrutin secret si au moins un membre en fait la demande.
 Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoie expressément des questions diverses. Les décisions sont prises à la majorité des membres présents ou représentés. Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
 L’assemblée générale ordinaire peut, sur décision du président de l’association avec accord de la majorité du Conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
+
+## Article 12 - Délégation de pouvoirs
+
+### 12.1
+
+Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du Conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
+
+### 12.2
+
+Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur.
 
 ## Article 13 - Assemblée générale extraordinaire
 
