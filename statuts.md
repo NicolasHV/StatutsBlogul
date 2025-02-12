@@ -273,7 +273,7 @@ Ses délibérations doivent être approuvées aux deux tiers des membres présen
 ### 13.1
 
 
-Le conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le conseil d’administration.
+Le conseil d’administration peut décider de déléguer une partie de ses pouvoirs en donnant mandat à un groupe de travail ou à tout membre du conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le mandataire agit au nom et pour le compte du conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le conseil d’administration.
 
 
 ### 13.2
