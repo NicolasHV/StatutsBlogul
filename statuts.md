@@ -65,6 +65,8 @@ Si l’acte ou la prestation au nom de l’association est rétribué, il ne pou
 
 ## Article 9 a
 
+### [article].1
+
 L’association est dirigée par un conseil de trois membres au minimum à vingt au maximum, élus pour trois ans par l’assemblée générale. Les membres renouvelables du conseil sont rééligibles.
 
 Les fonctions de membre du conseil d’administration sont bénévoles. Est éligible au conseil d’administration toute personne âgée de quatorze ans au moins au jour de l’élection et à jour de ses cotisations. La participation de mineurs au Conseil d'administration et au Bureau se font dans le respect des dispositions légales et réglementaires en vigueur.
@@ -73,7 +75,14 @@ Le conseil d'administration dispose des pouvoirs les plus étendus, et de tout p
 
 En cas de vacance, le Conseil d'administration peut pourvoir provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus proche assemblée générale ordinaire. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
 
+### [article].2
+
+Le conseil d’administration se réunit au moins une fois tous les six mois, sur convocation du président, ou sur la demande de la moitié de ses membres. Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante. Les convocations aux réunions et leurs comptes rendus peuvent être transmis par messagerie électronique. En cas de besoin, les administrateurs peuvent se concerter en communiquant par voie numérique pour prendre une décision. Les modalités de vote et de délibération sont alors identiques à celles d'une réunion du Conseil d'administration.
+Tout membre du conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire. La démission est constatée par le président qui en informe le Conseil d'administration lors d'une réunion.
+
 ## Article 9 b
+
+### [article].1
 
 Le conseil d’administration choisit parmi ses membres, pour une durée d'un an, au scrutin secret si cela est demandé par une personne au moins, un bureau composé de :
 1. un président et, s’il y a lieu, un vice-président
@@ -82,9 +91,15 @@ Le conseil d’administration choisit parmi ses membres, pour une durée d'un an
 
 Les fonctions de secrétaire et de trésorier peuvent être assurées par la même personne. Tous les membres du Bureau devront obligatoirement être choisis parmi les membres du Conseil d'administration et agir sous le contrôle de ce dernier. Les membres du Bureau sortants sont rééligibles. Chaque vices-membres du Bureau a les mêmes pouvoirs que le membres titulaire de la fonction qu'il représente, sous réserve de l'accord du titulaire ou de l'indisponibilité de celui-ci.
 
+### [article].2
+
 Le président est le représentant légal de l'association dans tous les actes de la vie civile et auprès des tiers. Il est le porte-parole de l'association et gère sa politique de communication. Il préside le conseil d'administration et les assemblées générales. Il veille à la bonne application des règles en vigueur avec le reste des membres du Bureau. Il gère la correspondance de l'association en lien avec le secrétaire et peut consulter toute archive tenue par lui. Il peut ester en justice après accord du conseil d'administration et agit en qualité de défendeur en cas d'action judiciaire envers l'association. Il peut gérer les relations avec les établissements bancaires, assurer le suivi des comptes bancaires de l'association et effectuer les paiements sous supervision du trésorier. Il autorise les prestations et actes réalisés au bénéfice de tiers au nom de l'association, selon les règles en vigueur.
 
+### [article].3
+
 Le secrétaire est responsable de la gestion administrative de l'association. Il rédige les procès-verbaux des réunions du conseil d'administration et des assemblées générales. Il gère les archives de l'association, y compris les statuts, le règlement intérieur et les documents officiels, à l'exception des documents relevant de la trésorerie. Il gère la correspondance de l'association en lien avec le président et l'archive lorsqu'il le juge nécessaire en suivant des modalités qui peuvent être prévues facultativement par le règlement intérieur. Il peut éditer et envoyer les convocations aux réunions et assemblées pour le compte des instances ayant autorité à convoquer, si elles en font la demande. Il peut représenter l'association auprès des tiers pour des actes administratifs, avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
+
+### [article].4
 
 Le trésorier est responsable de la gestion financière de l'association. Il tient les comptes à jour et prépare le budget annuel. Il encaisse les recettes et effectue les paiements. Il conserve les pièces justificatives des dépenses et des recettes, et les met à disposition pour les vérifications éventuelles. Il gère les archives de tout document relatif à la trésorerie. Il gère les relations avec les établissements bancaires et assure le suivi des comptes bancaires de l'association.
 
@@ -92,40 +107,44 @@ Le trésorier est responsable de la gestion financière de l'association. Il tie
 
 Un délégué à la protection des données peut être nommé par le Conseil d'administration. Le délégué à la protection des données s'assure du respect de la conformité légale et réglementaire de l'association en matière de protection des données personnelles. Le Conseil d'administration veille à ce qu'il n'ait pas de conflit d'intérêt dans l'exercice de ses fonctions et à ce qu'il ait accès aux documents et données qui lui sont nécessaires. Il est à cet effet informé de tout traitement de données à caractère personnel organisé par l'association et, s'il y a lieu, de toute sous-traitance de données à caractère personnel. Les modalités d'exercice de ses fonctions peuvent être précisées par le règlement intérieur.
 
-## Article 10
+## Article 13 c
 
-Le conseil d’administration se réunit au moins une fois tous les six mois, sur convocation du président, ou sur la demande de la moitié de ses membres. Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante. Les convocations aux réunions et leurs comptes rendus peuvent être transmis par messagerie électronique. En cas de besoin, les administrateurs peuvent se concerter en communiquant par voie numérique pour prendre une décision. Les modalités de vote et de délibération sont alors identiques à celles d'une réunion du Conseil d'administration.
-Tout membre du conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire. La démission est constatée par le président qui en informe le Conseil d'administration lors d'une réunion.
+Des groupes de travail peuvent être créés par délibération du Conseil d’administration. Les modalités de création, d’organisation et de suppression de ces groupes de travail sont définies par une résolution écrite adoptée par le Conseil d’administration pour chaque groupe de travail, la résolution devant être accessible facilement à tout membre de l'association.
+
+## Article 13 d
+
+### [article].2
+
+Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du Conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
+
+### [article].3
+
+Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur, à défaut par une résolution du Conseil d'administration.
 
 ## Article 11
 
 L’assemblée générale ordinaire comprend tous les membres de l’association à jour de leurs cotisations, à quelque titre qu’ils y soient affiliés. Elle se réunit chaque année au cours du premier semestre et autant de fois que nécessaire durant l'année sur décision du Conseil d'administration.
-Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du secrétaire ou du président.
+Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du secrétaire ou du président. Les convocations peuvent être envoyées par voie électronique.
 L’ordre du jour est indiqué sur les convocations.
-Le président, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association. Le secrétaire rend compte de son activité. Le trésorier soumet le bilan financier à l’approbation de l’assemblée. Le président peut demander à toute personne ayant une fonction au sein de l'association à rendre compte de son activité.
+Le président, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association. Le secrétaire rend compte de son activité. Le trésorier soumet le bilan financier à l’approbation de l’assemblée. Le président peut demander à toute personne ayant une fonction au sein de l'association de rendre compte de son activité. Ce point doit alors être précisé dans l'ordre du jour.
 Il est procédé, après épuisement de l’ordre du jour, au remplacement des membres renouvelables du Conseil d'administration. Cette élection peut se faire à main levée ; elle a lieu au scrutin secret si au moins un membre en fait la demande.
-Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoie expressément des questions diverses. Les décisions sont prises à la majorité des membres présents ou représentés. Les modalités de tenue des scrutins sont définies par le règlement intérieur. L'utilisation de dispositifs électroniques, permettant le vote en présentiel ou à distance, peut être autorisé par le règlement intérieur.
+Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoie expressément des questions diverses. Les décisions sont prises à la majorité des membres présents ou représentés. Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
 L’assemblée générale ordinaire peut, sur décision du président de l’association avec accord de la majorité du Conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
 
 ## Article 12
 
 Si besoin est, le président peut convoquer une assemblée générale extraordinaire, dans les mêmes modalités que celles prévues pour une assemblée générale ordinaire. Cette convocation peut également être effectuée sur la demande de la moitié plus un des membres du conseil d’administration ou un tiers des membres définis par l’article 6.
 Les assemblées générales extraordinaires obéissent aux mêmes règles que les assemblées générales ordinaires sauf dispositions contraires prévues par les statuts.
-L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique.
+L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique. Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents.
 
 ## Article 13 a
 
-Un règlement intérieur peut être établi par le conseil d’administration qui le fait alors approuver par l’assemblée générale.
-Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, ainsi que les points où les statuts prévoient qu'ils soient fixés par le règlement intérieur. Les points devant être définis dans le règlement intérieur par disposition des statuts peuvent également être définis par une résolution prise lors d'une séance du Conseil d'administration, à la majorité des membres présents ou représentés. La publicité de cette résolution doit alors être assurée à tous les membres de l'association.
+Un règlement intérieur peut être établi par le conseil d’administration qui le fait alors approuver par l’assemblée générale ordinaire la plus proche. Il n'entre en vigueur qu'à compter de sa ratification par l'assemblée générale.
+Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, ainsi que les points où les statuts prévoient qu'ils soient fixés par le règlement intérieur. Les points devant être définis dans le règlement intérieur par disposition des statuts peuvent également être définis par une résolution prise lors d'une séance du Conseil d'administration, à la majorité des membres présents ou représentés. La publicité de cette résolution doit alors être assurée à tous les membres de l'association. Elle entre en vigueur sans délai mais doit être approuvée par la plus proche assemblée générale ordinaire.
 
 ## Article 13 b
 
-Les statuts sont modifiables lors d’une assemblée générale extraordinaire, tenue dans les modalités prévues à l’article 12, avec approbation des modifications aux deux tiers des membres présents ou représentés.
-
-## Article 13 c
-
-Des groupes de travail peuvent être créés par délibération du Conseil d’administration. Les modalités de création, d’organisation et de suppression de ces groupes de travail sont définies par le règlement intérieur de l’association, ou à défaut, par une résolution écrite adoptée par le Conseil d’administration. Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail, en précisant dans sa délibération la teneur des pouvoirs délégués. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
-Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur, à défaut par une résolution du Conseil d'administration.
+Les statuts sont modifiables lors d’une assemblée générale extraordinaire.
 
 ## Article 14
 
