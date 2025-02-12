@@ -160,7 +160,7 @@ Il gère la correspondance de l'association conjointement avec le président et 
 
 Il établit et envoie les convocations aux réunions et assemblées pour le compte des instances ayant autorité à convoquer lorsque celles-ci utilisent leur pouvoir de convocation.
 
-Il peut représenter l'association auprès des tiers avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association.
+Il peut représenter l'association auprès des tiers avec l'accord du président ou du conseil d'administration ou pour honorer une obligation légale, réglementaire ou contractuelle de l'association. Il est représentant légal conjointement avec le président auprès des administrations.
 
 
 ### 8.4
