@@ -62,7 +62,7 @@ Sont membres d’honneur, ceux qui ont rendu des services signalés ; ils sont d
 La qualité de membre se perd par :
 1. la démission
 2. le décès
-3. le non-paiement de la cotisation depuis deux années consécutives ou moins, la radiation étant prononcée par le Conseil d’administration après une relance sur support écrit papier ou électronique.
+3. le non-paiement de la cotisation depuis deux années consécutives ou moins, la radiation étant prononcée par le conseil d’administration après une relance sur support écrit papier ou électronique.
 4. le non-paiement de la cotisation depuis plus de deux années consécutives, la radiation étant alors automatique sans qu'il y ait besoin d'effectuer une relance auprès du membre et d'établir une décision du conseil d'administration.
 5. la radiation prononcée par le conseil d'administration pour motif grave, l'intéressé ayant été invité par lettre recommandée avec accusé de réception à se présenter devant le conseil d'administration pour fournir des explications. Sans être exhaustif, le non-respect manifeste de l'article 2 des présents statuts peut être un motif de radiation.
 
@@ -96,19 +96,19 @@ Si l’acte ou la prestation au nom de l’association est rétribué, il ne pou
 
 L’association est dirigée par un conseil de trois membres au minimum à vingt au maximum, élus pour trois ans par l’assemblée générale. Les membres renouvelables du conseil sont rééligibles.
 
-Les fonctions de membre du conseil d’administration sont bénévoles. Est éligible au conseil d’administration toute personne âgée de quatorze ans au moins au jour de l’élection et à jour de ses cotisations. La participation de mineurs au Conseil d'administration et au Bureau se font dans le respect des dispositions légales et réglementaires en vigueur.
+Les fonctions de membre du conseil d’administration sont bénévoles. Est éligible au conseil d’administration toute personne âgée de quatorze ans au moins au jour de l’élection et à jour de ses cotisations. La participation de mineurs au conseil d'administration et au bureau se font dans le respect des dispositions légales et réglementaires en vigueur.
 
 Le conseil d'administration dispose des pouvoirs les plus étendus, et de tout pouvoir n'étant pas expréssement attribué à une autre instance par les statuts ou le règlement intérieur.
 
-En cas de vacance, le Conseil d'administration peut pourvoir provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus proche assemblée générale ordinaire. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
+En cas de vacance, le conseil d'administration peut pourvoir provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus proche assemblée générale ordinaire. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
 
 
 ### 7.2
 
 
-Le conseil d’administration se réunit au moins une fois tous les six mois, sur convocation du président, ou sur la demande de la moitié de ses membres. Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante. Les convocations aux réunions et leurs comptes rendus peuvent être transmis par messagerie électronique. En cas de besoin, les administrateurs peuvent se concerter en communiquant par voie numérique pour prendre une décision. Les modalités de vote et de délibération sont alors identiques à celles d'une réunion du Conseil d'administration.
+Le conseil d’administration se réunit au moins une fois tous les six mois, sur convocation du président, ou sur la demande de la moitié de ses membres. Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante. Les convocations aux réunions et leurs comptes rendus peuvent être transmis par messagerie électronique. En cas de besoin, les administrateurs peuvent se concerter en communiquant par voie numérique pour prendre une décision. Les modalités de vote et de délibération sont alors identiques à celles d'une réunion du conseil d'administration.
 
-Tout membre du conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire. La démission est constatée par le président qui en informe le Conseil d'administration lors d'une réunion.
+Tout membre du conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire. La démission est constatée par le président qui en informe le conseil d'administration lors d'une réunion.
 
 
 ## Article 8 - Bureau
@@ -122,7 +122,7 @@ Le conseil d’administration choisit parmi ses membres, pour une durée d'un an
 2. un secrétaire général et, s’il y a lieu, un vice-secrétaire général
 3. un trésorier et, s’il y a lieu, un vice-trésorier
 
-Les fonctions de secrétaire général et de trésorier peuvent être assurées par la même personne. Tous les membres du Bureau devront obligatoirement être choisis parmi les membres du Conseil d'administration et agir sous le contrôle de ce dernier. Les membres du Bureau sortants sont rééligibles. Chaque vices-membres du Bureau a les mêmes pouvoirs que le membres titulaire de la fonction qu'il représente, sous réserve de l'accord du titulaire ou de l'indisponibilité de celui-ci.
+Les fonctions de secrétaire général et de trésorier peuvent être assurées par la même personne. Tous les membres du bureau devront obligatoirement être choisis parmi les membres du conseil d'administration et agir sous le contrôle de ce dernier. Les membres du bureau sortants sont rééligibles. Chaque vices-membre du bureau a les mêmes pouvoirs que le membre titulaire de la fonction qu'il représente, sous réserve de l'accord du titulaire ou de l'indisponibilité de celui-ci.
 
 
 ### 8.2
@@ -134,7 +134,7 @@ Il est le porte-parole de l'association et décide de sa politique de communicat
 
 Il préside le conseil d'administration et les assemblées générales.
 
-Il veille à la bonne application des règles en vigueur avec le reste des membres du Bureau.
+Il veille à la bonne application des règles en vigueur avec le reste des membres du bureau.
 
 Il gère la correspondance de l'association conjointement avec le secrétaire général, et peut consulter toute archive tenue par lui.
 
@@ -182,7 +182,7 @@ Il peut représenter l'association auprès des tiers avec l'accord du président
 ## Article 9 - Délégué à la protection des données
 
 
-Un délégué à la protection des données peut être nommé par le Conseil d'administration. Le délégué à la protection des données s'assure du respect de la conformité légale et réglementaire de l'association en matière de protection des données personnelles. Le Conseil d'administration veille à ce qu'il n'ait pas de conflit d'intérêt dans l'exercice de ses fonctions et à ce qu'il ait accès aux documents et données qui lui sont nécessaires. Il est à cet effet informé de tout traitement de données à caractère personnel organisé par l'association et, s'il y a lieu, de toute sous-traitance de données à caractère personnel. Les modalités d'exercice de ses fonctions peuvent être précisées par le règlement intérieur.
+Un délégué à la protection des données peut être nommé par le conseil d'administration. Le délégué à la protection des données s'assure du respect de la conformité légale et réglementaire de l'association en matière de protection des données personnelles. Le conseil d'administration veille à ce qu'il n'ait pas de conflit d'intérêt dans l'exercice de ses fonctions et à ce qu'il ait accès aux documents et données qui lui sont nécessaires. Il est à cet effet informé de tout traitement de données à caractère personnel organisé par l'association et, s'il y a lieu, de toute sous-traitance de données à caractère personnel. Les modalités d'exercice de ses fonctions peuvent être précisées par le règlement intérieur.
 
 Le délégué à la protection des données peut être toute personne membre de l'association, ou une personne externe exerçant ses fonctions à titre professionnel en ayant conclu un contrat d'externalisation du délégué à la protection des données.
 
@@ -190,7 +190,7 @@ Le délégué à la protection des données peut être toute personne membre de 
 ## Article 10 - Groupes de travail
 
 
-Des groupes de travail peuvent être créés par délibération du Conseil d’administration. Les modalités de création, d’organisation et de suppression de ces groupes de travail sont définies par une résolution écrite adoptée par le Conseil d’administration pour chaque groupe de travail, la résolution devant être accessible facilement à tout membre de l'association.
+Des groupes de travail peuvent être créés par délibération du conseil d’administration. Les modalités de création, d’organisation et de suppression de ces groupes de travail sont définies par une résolution écrite adoptée par le conseil d’administration pour chaque groupe de travail, la résolution devant être accessible facilement à tout membre de l'association.
 
 
 ## Article 11 - Assemblée générale ordinaire
@@ -199,7 +199,7 @@ Des groupes de travail peuvent être créés par délibération du Conseil d’a
 ### 11.1
 
 
-L’assemblée générale ordinaire comprend tous les membres de l’association à jour de leurs cotisations, à quelque titre qu’ils y soient affiliés. Elle se réunit chaque année au cours du premier semestre et autant de fois que nécessaire durant l'année sur décision du Conseil d'administration.
+L’assemblée générale ordinaire comprend tous les membres de l’association à jour de leurs cotisations, à quelque titre qu’ils y soient affiliés. Elle se réunit chaque année au cours du premier semestre et autant de fois que nécessaire durant l'année sur décision du conseil d'administration.
 
 
 ### 11.2
@@ -229,7 +229,7 @@ Ces dispositions ne sont pas obligatoires si une assemblée générale ordinaire
 ### 11.4
 
 
-Il est procédé, après épuisement de l’ordre du jour, au remplacement des membres renouvelables du Conseil d'administration. Cette élection peut se faire à main levée ; elle a lieu au scrutin secret si au moins un membre en fait la demande.
+Il est procédé, après épuisement de l’ordre du jour, au remplacement des membres renouvelables du conseil d'administration. Cette élection peut se faire à main levée ; elle a lieu au scrutin secret si au moins un membre en fait la demande.
 
 
 ### 11.5
@@ -243,7 +243,7 @@ Les modalités de tenue des scrutins sont définies par le règlement intérieur
 ### 11.6
 
 
-L’assemblée générale ordinaire peut, sur décision du président avec accord de la majorité du Conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
+L’assemblée générale ordinaire peut, sur décision du président avec accord de la majorité du conseil d’administration, se tenir en distanciel via un dispositif de visioconférence respectant les principes du logiciel libre. Les modalités d’organisation d’une telle assemblée générale sont définies par le règlement intérieur.
 
 
 ## Article 12 - Assemblée générale extraordinaire
@@ -271,13 +271,13 @@ Ses délibérations doivent être approuvées aux deux tiers des membres présen
 ### 13.1
 
 
-Le Conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du Conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du Conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le Conseil d’administration.
+Le conseil d’administration peut décider de déléguer une partie de ses pouvoirs à un groupe de travail ou à tout membre du conseil d'administration, en précisant dans sa délibération la teneur des pouvoirs délégués et leur durée dans le temps. Dans ce cas, le groupe de travail agit au nom et pour le compte du conseil d’administration, cependant toute décision peut être annulée sans effet rétroactif par le conseil d’administration.
 
 
 ### 13.2
 
 
-Les membres du Bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du Conseil d'administration. Les modalités d'application sont définies par le règlement intérieur.
+Les membres du bureau peuvent effectuer une délégation de tout ou partie de leurs pouvoirs au bénéfice de tout groupe de travail ou tout membre du conseil d'administration. Les modalités d'application sont définies par le règlement intérieur.
 
 
 ## Article 14 - Règlement intérieur
@@ -285,7 +285,7 @@ Les membres du Bureau peuvent effectuer une délégation de tout ou partie de le
 
 Un règlement intérieur peut être établi par le conseil d’administration qui le fait alors approuver par l’assemblée générale ordinaire la plus proche. Il n'entre en vigueur qu'à compter de sa ratification par l'assemblée générale.
 
-Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, ainsi que les points où les statuts prévoient qu'ils soient fixés par le règlement intérieur. Les points devant être définis dans le règlement intérieur par disposition des statuts peuvent également être définis par une résolution prise lors d'une séance du Conseil d'administration, à la majorité des membres présents ou représentés. La publicité de cette résolution doit alors être assurée à tous les membres de l'association. Elle entre en vigueur sans délai mais doit être approuvée par la plus proche assemblée générale ordinaire.
+Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, ainsi que les points où les statuts prévoient qu'ils soient fixés par le règlement intérieur. Les points devant être définis dans le règlement intérieur par disposition des statuts peuvent également être définis par une résolution prise lors d'une séance du conseil d'administration, à la majorité des membres présents ou représentés. La publicité de cette résolution doit alors être assurée à tous les membres de l'association. Elle entre en vigueur sans délai mais doit être approuvée par la plus proche assemblée générale ordinaire.
 
 
 ## Article 15 - Modification des statuts
