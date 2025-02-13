@@ -3,6 +3,7 @@
 
 ## Article X - Complément à l'article 4 des statuts
 
+
 La cotisation des membres de l'association, à quelque titre qu'ils y soient affiliés, est annualisée. Elle est valable à compter du jour de versement jusqu'au 31 décembre suivant.
 
 La cotisation des membres actifs est fixée pour les personnes physiques à douze euros (à l'exception des personnes éligibles au tarif social qui en font la demande), pour les associations à trente euros et pour toute autre personne morale à cinquante euros.
@@ -17,6 +18,7 @@ Toute demande d'adhésion doit être approuvée par un membre du bureau. En cas 
 
 
 ## Article X - Complément à l'article 11 des statuts
+
 
 L'ordre du jour est fixé par le conseil d'administraton et, s'il y a lieu, par l'assemblée générale.
 
