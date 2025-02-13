@@ -222,7 +222,7 @@ Ne devront être traitées, lors de l’assemblée générale, que les questions
 ### 11.3
 
 
-Le président, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association. Il soumet son bilan à approbation de l'assemblée.
+Le président, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association. Il soumet son bilan à l'approbation de l'assemblée.
 
 Le secrétaire général rend compte de son activité.
 
