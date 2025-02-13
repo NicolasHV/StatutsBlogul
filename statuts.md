@@ -55,13 +55,15 @@ Sont membres bienfaiteurs, les membres actifs qui apportent une aide particuliè
 
 Sont membres d’honneur, ceux qui ont rendu des services signalés ; ils sont dispensés de cotisations. Ils sont assimilés à des membres actifs. Les modalités d'attribution de ce titre sont prévues par le règlement intérieur.
 
+Le règlement intérieur peut fixer des conditions supplémentaires à l'adhésion.
+
 
 ### 4.3
 
 
 La qualité de membre se perd par :
 1. la démission
-2. le décès
+2. le décès, la dissolution (pour les associations) ou la cessation d'activité (pour les entreprises).
 3. le non-paiement de la cotisation depuis deux années consécutives ou moins, la radiation étant prononcée par le conseil d’administration après une relance sur support écrit papier ou électronique.
 4. le non-paiement de la cotisation depuis plus de deux années consécutives, la radiation étant alors automatique sans qu'il y ait besoin d'effectuer une relance auprès du membre et d'établir une décision du conseil d'administration.
 5. la radiation prononcée par le conseil d'administration pour motif grave, l'intéressé ayant été invité par lettre recommandée avec accusé de réception à se présenter devant le conseil d'administration pour fournir des explications. Sans être exhaustif, le non-respect manifeste de l'article 2 des présents statuts peut être un motif de radiation.
