@@ -211,7 +211,7 @@ L’assemblée générale ordinaire comprend tous les membres de l’association
 
 Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par le secrétaire général ou le président. Les convocations peuvent être envoyées par voie électronique.
 
-L’ordre du jour est fixé par le conseil d'administration sur proposition du président ou du secrétaire général. Il est indiqué sur les convocations envoyées.
+L’ordre du jour est fixé dans les modalités définies par le règlement intérieur.
 
 Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoit expressément des questions diverses.
 
