@@ -264,7 +264,7 @@ Si besoin est, le président peut convoquer une assemblée générale extraordin
 
 Les assemblées générales extraordinaires obéissent aux mêmes règles que les assemblées générales ordinaires sauf dispositions contraires prévues par les statuts.
 
-L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique.
+L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique. Elle délibère exclusivement sur l'ordre du jour fixé lors de la convocation.
 
 Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents.
 
