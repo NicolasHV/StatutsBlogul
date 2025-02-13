@@ -1,7 +1,7 @@
 # Règlement intérieur
 
 
-## Article X - Complément à l'article 4 des statuts
+## Article 1 - Complément à l'article 4 des statuts
 
 
 Cet article concerne l'organisation des membres de l'association.
@@ -19,7 +19,7 @@ Sont membres d'honneur ceux ayant contribué de manière significative à l'asso
 Toute demande d'adhésion doit être approuvée par un membre du bureau. En cas de refus, un recours devant le conseil d'administration est possible et il statue en dernier ressort. Les membres ayant été exclus pour faute grave ne peuvent réintégrer l'association qu'avec l'accord préalable du conseil d'administration.
 
 
-## Article X - Complément à l'article 7 des statuts
+## Article 2 - Complément à l'article 7 des statuts
 
 
 Cet article concerne l'organisation du conseil d'administration.
@@ -33,7 +33,7 @@ Tout membre du conseil d'administration peut adresser au président ou au secré
 Les procurations sont autorisées dans la limite d'un pouvoir par mandataire. La procuration peut être ponctuelle ou permanente et doit être officialisée par un écrit signé par le mandant et par le mandataire.
 
 
-## Article X - Complément à l'article 11 des statuts
+## Article 3 - Complément à l'article 11 des statuts
 
 
 Cet article concerne l'organisation de l'assemblée générale.
@@ -45,3 +45,7 @@ L’ordre du jour arrêté par le conseil d'administration sur proposition du pr
 Huit jours au moins avant la date fixée, les membres de l’association sont convoqués par le secrétaire général ou le président. Les convocations peuvent être envoyées par voie électronique. La convocation peut être individuelle ou collective ; dans ce dernier cas la publicité de la convocation doit être suffisante.
 
 Tout membre de l’association peut adresser au président ou au secrétaire général, jusqu'à deux jours avant la date de la réunion, une proposition d’inscription d’un sujet à l’ordre du jour. Toute proposition faisant l’objet d’un vote positif d’un quart au moins des membres présents ou représentés à l’assemblée générale sera rajouté à l’ordre du jour, sous réserve de la conformité de la proposition avec les statuts et le règlement intérieur. L’assemblée générale délibère alors sur tous les points inscrits à l’ordre du jour ainsi complété.
+
+Les procurations sont autorisées dans la limite d'un pouvoir par mandataire, à l'exception des assemblées générales se tenant via un dispositif de visioconférence. Elle est uniquement valable pour une assemblée générale et doit être officialisée par un écrit signé par le mandant et par le mandataire.
+
+Les scrutins se tiennent exclusivement en présentiel à l'exception des assemblées générales se tenant via un dispositif de visioconférence. Dans ce cas, les votes sont effectuées via tout système permettant d'assurer la fiabilité des votes et la bonne répartition des pouvoirs entre les votants.
