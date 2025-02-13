@@ -209,8 +209,6 @@ L’assemblée générale ordinaire comprend tous les membres de l’association
 ### 11.2
 
 
-, les membres de l’association sont convoqués par le secrétaire général ou le président dans un délai fixé par le règlement intérieur. Les convocations peuvent être envoyées par voie électronique.
-
 Les modalités de définition de l'ordre du jour et de convocation sont fixées par le règlement intérieur.
 
 Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoit expressément des questions diverses.
