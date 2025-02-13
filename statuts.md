@@ -10,11 +10,11 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 ## Article 2 - Objet
 
 
-L'association Blois-GUL a pour objectif principal l'étude, la promotion et le développement du système d'exploitation Linux, des logiciels libres, des standards ouverts et des œuvres libres, en mettant un accent particulier sur l'inclusion numérique, la pédagogie et la citoyenneté numérique dans la région de Blois et ses environs.
+L'association Blois-GUL a pour objectif principal l'étude, la promotion et le développement des systèmes d'exploitation et logiciels libres, des standards ouverts et des œuvres libres, en mettant un accent particulier sur l'inclusion numérique, la pédagogie et la citoyenneté numérique. Elle exerce ses activités physiques dans la région de Blois et ses environs ; elle peut également participer à titre exceptionnel à des activités en dehors de son ressort géographique.
 
 Pour atteindre ces objectifs, l'association se structure autour des points suivants :
 
-- Rassembler et Fédérer : Encourager et faciliter le rassemblement des utilisateurs de Linux et des technologies libres dans la région, en créant un espace d'échange et de collaboration.
+- Rassembler et Fédérer : Encourager et faciliter le rassemblement des utilisateurs de systèmes d'exploitation et de technologies libres dans la région, en créant un espace d'échange et de collaboration.
 
 - Promotion et Formation : Promouvoir et offrir des formations à l'informatique libre auprès des particuliers, des entreprises, des administrations, des jeunes et des adultes. Ces formations visent à lutter contre la fracture numérique et à initier le public aux possibilités offertes par les outils informatiques libres.
 
