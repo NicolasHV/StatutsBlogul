@@ -4,6 +4,8 @@
 ## Article X - Complément à l'article 4 des statuts
 
 
+Cet article concerne l'organisation des membres de l'association.
+
 La cotisation des membres de l'association, à quelque titre qu'ils y soient affiliés, est annualisée. Elle est valable à compter du jour de versement jusqu'au 31 décembre suivant.
 
 La cotisation des membres actifs est fixée pour les personnes physiques à douze euros (à l'exception des personnes éligibles au tarif social qui en font la demande), pour les associations à trente euros et pour toute autre personne morale à cinquante euros.
@@ -17,8 +19,24 @@ Sont membres d'honneur ceux ayant contribué de manière significative à l'asso
 Toute demande d'adhésion doit être approuvée par un membre du bureau. En cas de refus, un recours devant le conseil d'administration est possible et il statue en dernier ressort. Les membres ayant été exclus pour faute grave ne peuvent réintégrer l'association qu'avec l'accord préalable du conseil d'administration.
 
 
+## Article X - Complément à l'article 7 des statuts
+
+
+Cet article concerne l'organisation du conseil d'administration.
+
+Le conseil d’administration se réunit sur convocation du président, ou sur la demande de la moitié de ses membres. Le délai entre la convocation et la réunion doit être suffisant pour permettre une bonne organisation et laisser la possibilité aux membres de se rendre disponibles.
+
+L'ordre du jour est fixé par le président et figure sur la convocation, ainsi que la date et le lieu de la réunion.
+
+Tout membre du conseil d'administration peut adresser au président ou au secrétaire général, jusqu'au début de la réunion, une proposition d’inscription d’un sujet à l’ordre du jour. Toute proposition faisant l’objet d’un vote positif de la majorité des membres présents ou représentés à l’assemblée générale sera rajouté à l’ordre du jour, sous réserve de la conformité de la proposition avec les statuts et le règlement intérieur. Le conseil d'administration délibère alors sur tous les points inscrits à l’ordre du jour ainsi complété.
+
+Les procurations sont autorisées dans la limite d'un pouvoir par mandataire. La procuration peut être ponctuelle ou permanente et doit être officialisée par un écrit signé par le mandant et par le mandataire.
+
+
 ## Article X - Complément à l'article 11 des statuts
 
+
+Cet article concerne l'organisation de l'assemblée générale.
 
 L'ordre du jour est fixé par le conseil d'administraton et, s'il y a lieu, par l'assemblée générale.
 
