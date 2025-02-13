@@ -287,9 +287,11 @@ Les membres du bureau peuvent effectuer une délégation de tout ou partie de le
 ## Article 14 - Règlement intérieur
 
 
-Un règlement intérieur peut être établi par le conseil d’administration qui le fait alors approuver par l’assemblée générale ordinaire la plus proche. Il n'entre en vigueur qu'à compter de sa ratification par l'assemblée générale.
+Un règlement intérieur peut être établi par le conseil d’administration qui le fait alors approuver par l’assemblée générale ordinaire la plus proche. Il entre en vigueur sans délai mais doit être approuvé par la plus proche assemblée générale ordinaire sous peine de caducité.
 
-Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, ainsi que les points où les statuts prévoient qu'ils soient fixés par le règlement intérieur. Les points devant être définis dans le règlement intérieur par disposition des statuts peuvent également être définis par une résolution prise lors d'une séance du conseil d'administration, à la majorité des membres présents ou représentés. La publicité de cette résolution doit alors être assurée à tous les membres de l'association. Elle entre en vigueur sans délai mais doit être approuvée par la plus proche assemblée générale ordinaire.
+Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, ainsi que les points où les statuts prévoient qu'ils soient fixés par le règlement intérieur.
+
+En cas d'absence de règlement intérieur, les points devant être définis dans celui-ci par disposition des statuts peuvent également être définis par une résolution prise lors d'une séance du conseil d'administration. La publicité de cette résolution doit alors être assurée à tous les membres de l'association. Elle entre en vigueur sans délai mais doit être ratifiée par la plus proche assemblée générale ordinaire sous peine de caducité.
 
 
 ## Article 15 - Modification des statuts
