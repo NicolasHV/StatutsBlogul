@@ -10,18 +10,21 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 ## Article 2 - Objet
 
 
-L’association se donne pour objectifs l’étude et la promotion, directe ou indirecte, du système d’exploitation Linux, des logiciels libres, des standards ouverts et des œuvres libres en général, dans la région de Blois et de ses environs.
+L'association Blois-GUL a pour objectif principal l'étude, la promotion et le développement du système d'exploitation Linux, des logiciels libres, des standards ouverts et des œuvres libres, en mettant un accent particulier sur l'inclusion numérique, la pédagogie et la citoyenneté numérique dans la région de Blois et ses environs.
 
-Cette action sera menée notamment en incitant, en aidant ou en favorisant :
+Pour atteindre ces objectifs, l'association se structure autour des points suivants :
 
-- le rassemblement des utilisateurs de Linux de la région.
-- la promotion et la formation à l’informatique libre auprès des particuliers, des entreprises et des administrations.
-- la promotion et la formation à l’informatique libre auprès des jeunes et des adultes comme moyen de lutte contre la fracture numérique et pour l’initiation aux possibilités de l’outil informatique indépendamment des questions de coût et de légalité.
-- et toute action qui a pour but de contribuer à la réalisation des objectifs de l’association.
+- Rassembler et Fédérer : Encourager et faciliter le rassemblement des utilisateurs de Linux et des technologies libres dans la région, en créant un espace d'échange et de collaboration.
 
-Blois-Gul permet à ses adhérents de partager leurs expériences et de réaliser des projets communs.
+- Promotion et Formation : Promouvoir et offrir des formations à l'informatique libre auprès des particuliers, des entreprises, des administrations, des jeunes et des adultes. Ces formations visent à lutter contre la fracture numérique et à initier le public aux possibilités offertes par les outils informatiques libres.
 
-Elle ne se substitue pas au support des éditeurs de logiciels, avec lesquels elle n’a aucun lien. Ses membres s’engagent à respecter des valeurs démocratiques et humanistes, en particulier le respect des personnes, la liberté d’opinion et d’expression, la probité intellectuelle.
+- Inclusion Numérique : Favoriser l'inclusion numérique en rendant les technologies libres accessibles à tous, notamment aux personnes éloignées du numérique, en mettant en place des actions pédagogiques adaptées et en soutenant des projets inclusifs.
+
+- Citoyenneté Numérique : Sensibiliser et éduquer le public à la citoyenneté numérique, en promouvant une utilisation responsable et éthique des technologies numériques, et en encourageant l'engagement citoyen dans le domaine du numérique.
+
+- Projets Communs : Permettre à ses adhérents de partager leurs expériences et de réaliser des projets communs, en favorisant l'innovation et la créativité au sein de la communauté.
+
+L'association Blois-GUL ne se substitue pas au support des éditeurs de logiciels et n'a aucun lien avec eux. Ses membres s'engagent à respecter des valeurs démocratiques et humanistes, notamment le respect et la non-discrimination des personnes, la liberté d'opinion et d'expression, et la probité intellectuelle.
 
 
 ## Article 3 - Siège social
