@@ -243,6 +243,8 @@ Les décisions sont prises à la majorité simple des membres présents ou repr�
 
 Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
 
+La procuration est autorisée selon des modalités définies par le règlement intérieur.
+
 
 ### 11.6
 
@@ -266,7 +268,7 @@ Les assemblées générales extraordinaires obéissent aux mêmes règles que le
 
 L’assemblée générale extraordinaire se tient obligatoirement en présentiel, mais la tenue des scrutins peut se dérouler de manière électronique. Elle délibère exclusivement sur l'ordre du jour fixé lors de la convocation.
 
-Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents.
+Ses délibérations doivent être approuvées aux deux tiers des membres présents ou représentés. Les membres ayant voté à distance de manière électronique sont réputés présents. La procuration est autorisée dans les mêmes modalités que pour une assemblée générale ordinaire, mais nul ne peut posséder plus d'un mandat.
 
 
 ## Article 13 - Délégation de pouvoirs
