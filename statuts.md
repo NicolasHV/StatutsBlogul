@@ -110,9 +110,9 @@ En cas de vacance, le conseil d'administration peut pourvoir provisoirement au r
 ### 7.2
 
 
-Le conseil d’administration se réunit au moins une fois tous les six mois, sur convocation du président, ou sur la demande de la moitié de ses membres. Les décisions sont prises à la majorité des voix des membres présents ou représentés ; en cas de partage, la voix du président est prépondérante. Les convocations aux réunions et leurs comptes rendus peuvent être transmis par messagerie électronique. En cas de besoin, les administrateurs peuvent se concerter en communiquant par voie numérique pour prendre une décision. Les modalités de vote et de délibération sont alors identiques à celles d'une réunion du conseil d'administration.
+Les modalités de définition de l'ordre du jour et de convocation sont précisées par le règlement intérieur ; il se réunit au minimum tous les six mois. La procuration est autorisée selon des modalités définies par le règlement intérieur.
 
-Les modalités de définition de l'ordre du jour et de convocation sont précisées par le règlement intérieur. La procuration est autorisée selon des modalités définies par le règlement intérieur.
+Les décisions sont prises à la majorité des voix des membres présents ou représentés ; en cas de partage, la voix du président est prépondérante. Les convocations aux réunions et leurs comptes rendus peuvent être transmis par messagerie électronique. En cas de besoin, les administrateurs peuvent se concerter en communiquant par voie numérique pour prendre une décision. Les modalités de vote et de délibération sont alors identiques à celles d'une réunion du conseil d'administration.
 
 Tout membre du conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire. La démission est constatée par le président qui en informe le conseil d'administration lors d'une réunion.
 
