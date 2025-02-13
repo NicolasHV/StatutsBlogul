@@ -216,7 +216,7 @@ L’assemblée générale ordinaire comprend tous les membres de l’association
 
 Les modalités de définition de l'ordre du jour et de convocation sont fixées par le règlement intérieur.
 
-Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoit expressément des questions diverses.
+Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour, à moins que celui-ci ne prévoie expressément des questions diverses.
 
 
 ### 11.3
