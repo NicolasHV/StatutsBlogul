@@ -8,7 +8,7 @@ La cotisation des membres de l'association, à quelque titre qu'ils y soient aff
 
 La cotisation des membres actifs est fixée pour les personnes physiques à douze euros (à l'exception des personnes éligibles au tarif social qui en font la demande), pour les associations à trente euros et pour toute autre personne morale à cinquante euros.
 
-La cotisation des membres à tarif social est fixée à cinq euros. Sont éligibles au tarif social tous les bénéficiaires d'un projet porté par l'association, ayant reçu une subvention de la part d'une administration publique ou d'une collectivité territoriale, et s'inscrivant dans le cadre de l'économie sociale et solidaire.
+La cotisation des membres à tarif social est fixée à cinq euros. Sont éligibles au tarif social tous les bénéficiaires d'un projet porté par l'association ; le projet ayant reçu une subvention de la part d'une administration publique ou d'une collectivité territoriale, et s'inscrivant dans le cadre de l'économie sociale et solidaire.
 
 Sont membres bienfaiteurs les personnes physiques qui ont pris l'engagement de verser une cotisation supérieure ou égale à cinquante euros et qui ont reçu l'agrément discrétionnaire du conseil d'administration pour ce faire. Ils sont réputés avoir payé leur cotisation de membre actif.
 
