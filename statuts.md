@@ -239,7 +239,7 @@ Il est procédé, après épuisement de l’ordre du jour, au remplacement des m
 ### 11.5
 
 
-Les décisions sont prises à la majorité simple des membres présents ou représentés.
+Les décisions sont prises à la majorité simple des membres présents ou représentés. Aucun quorum n'est défini sauf disposition contraire du règlement intérieur.
 
 Les modalités de tenue des scrutins sont définies par le règlement intérieur, qui peut autoriser l'utilisation de dispositifs électroniques permettant le vote en présentiel ou à distance. Les membres ayant voté à distance de manière électronique sont réputés présents.
 
