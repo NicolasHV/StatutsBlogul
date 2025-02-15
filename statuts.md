@@ -50,7 +50,7 @@ L’association se compose de :
 
 ### 4.2
 
-Sont membres actifs ou adhérents ceux qui ont pris l’engagement de verser une somme dont le montant et la périodicité sont fixés par le règlement intérieur.
+Sont membres actifs ou adhérents ceux qui sont à jour de cotisation ; dont le montant et la périodicité sont fixés par le règlement intérieur.
 
 Sont membres adhérents au tarif social ceux qui remplissent les conditions d'éligibilité fixées par le règlement intérieur. Ils s'engagent à verser une somme dont le montant et la périodicité sont fixés par le règlement intérieur. La somme peut être nulle et ne doit jamais être strictement supérieure à celle fixée pour les membres actifs.
 
@@ -67,9 +67,8 @@ Le règlement intérieur peut fixer des conditions supplémentaires à l'adhési
 La qualité de membre se perd par :
 1. la démission
 2. le décès, la dissolution (pour les associations) ou la cessation d'activité (pour les entreprises).
-3. le non-paiement de la cotisation depuis deux années consécutives ou moins, la radiation étant prononcée par le conseil d’administration après une relance sur support écrit papier ou électronique.
-4. le non-paiement de la cotisation depuis plus de deux années consécutives, la radiation étant alors automatique sans qu'il y ait besoin d'effectuer une relance auprès du membre et d'établir une décision du conseil d'administration.
-5. la radiation prononcée par le conseil d'administration pour motif grave, l'intéressé ayant été invité par lettre recommandée avec accusé de réception à se présenter devant le conseil d'administration pour fournir des explications. Sans être exhaustif, le non-respect manifeste de l'article 2 des présents statuts peut être un motif de radiation.
+3. le fait de ne pas être à jour de sa cotisation depuis deux mois, la radiation étant alors automatique sans qu'il y ait besoin d'effectuer une relance auprès du membre et d'établir une décision du conseil d'administration.
+4. la radiation prononcée par le conseil d'administration pour motif grave, l'intéressé ayant été invité par lettre recommandée avec accusé de réception à se présenter devant le conseil d'administration pour fournir des explications. Sans être exhaustif, le non-respect manifeste de l'article 2 des présents statuts peut être un motif de radiation.
 
 
 ## Article 5 - Ressources
